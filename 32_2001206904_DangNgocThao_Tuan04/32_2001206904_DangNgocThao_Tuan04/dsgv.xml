@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Khoa>
+	<TenKhoa>CNTT</TenKhoa>
+	<DanhSachGiaoVien>
+		<GiaoVien>
+			<Ma>T003</Ma>
+			<HoTen>Duong Thi Mong Thuy</HoTen>
+			<GioiTinh>False</GioiTinh>
+			<NgaySinh>15/09/1990</NgaySinh>
+			<SoNhom>5</SoNhom>
+		</GiaoVien>
+		<GiaoVien>
+			<Ma>T001</Ma>
+			<HoTen>Vu Van Vinh</HoTen>
+			<GioiTinh>True</GioiTinh>
+			<NgaySinh>15/04/1989</NgaySinh>
+			<SoNhom>5</SoNhom>
+		</GiaoVien>
+		<GiaoVien>
+			<Ma>T002</Ma>
+			<HoTen>Lam Thi Hoa Mi</HoTen>
+			<GioiTinh>False</GioiTinh>
+			<NgaySinh>10/07/1989</NgaySinh>
+			<SoNhom>4</SoNhom>
+		</GiaoVien>
+		<GiaoVien>
+			<Ma>T004</Ma>
+			<HoTen>Tran Van Tho</HoTen>
+			<GioiTinh>True</GioiTinh>
+			<NgaySinh>12/04/1984</NgaySinh>
+			<SoNhom>4</SoNhom>
+		</GiaoVien>
+		<GiaoVien>
+			<Ma>T005</Ma>
+			<HoTen>Nguyen Thi Thuy Trang</HoTen>
+			<GioiTinh>False</GioiTinh>
+			<NgaySinh>15/04/1992</NgaySinh>
+			<SoNhom>7</SoNhom>
+		</GiaoVien>
+		<GiaoVien>
+			<Ma>T008</Ma>
+			<HoTen>Nguyen Van Thinh</HoTen>
+			<GioiTinh>True</GioiTinh>
+			<NgaySinh>15/04/1988</NgaySinh>
+			<SoNhom>2</SoNhom>
+		</GiaoVien>
+	</DanhSachGiaoVien>
+</Khoa>

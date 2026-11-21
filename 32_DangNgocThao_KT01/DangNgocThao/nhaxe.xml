@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<NhaXe>
+  <DiaChi>102 Nguyen Quy Anh, Quan Tan Phu, TPHCM</DiaChi>
+  <MaSoThue>B39759636</MaSoThue>
+  <CacChuyenXe>
+    <ChuyenXe>
+      <BienSoXe>59-0000001</BienSoXe>
+      <HoTenTX>Nguyen Quan Vinh</HoTenTX>
+      <SoChoNgoi>20</SoChoNgoi>
+      <DungTichXang>50.2</DungTichXang>
+      <SoKM>549</SoKM>
+    </ChuyenXe>
+    <ChuyenXe>
+      <BienSoXe>59-0000002</BienSoXe>
+      <HoTenTX>Nguyen Nhut Tan</HoTenTX>
+      <SoChoNgoi>28</SoChoNgoi>
+      <DungTichXang>20.5</DungTichXang>
+      <SoKM>100</SoKM>
+    </ChuyenXe>
+    <ChuyenXe>
+      <BienSoXe>59-0000003</BienSoXe>
+      <HoTenTX>Le Thanh Nam</HoTenTX>
+      <SoChoNgoi>30</SoChoNgoi>
+      <DungTichXang>35.5</DungTichXang>
+      <SoKM>255</SoKM>
+    </ChuyenXe>
+    <ChuyenXe>
+      <BienSoXe>59-0000004</BienSoXe>
+      <HoTenTX>Dang Ngoc Thao</HoTenTX>
+      <SoChoNgoi>28</SoChoNgoi>
+      <DungTichXang>11.4</DungTichXang>
+      <SoKM>549</SoKM>
+    </ChuyenXe>
+    <ChuyenXe>
+      <BienSoXe>59-0000005</BienSoXe>
+      <HoTenTX>Pham Van Tuan</HoTenTX>
+      <SoChoNgoi>22</SoChoNgoi>
+      <DungTichXang>22.4</DungTichXang>
+      <SoKM>180</SoKM>
+    </ChuyenXe>
+  </CacChuyenXe>
+</NhaXe>

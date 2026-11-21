@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThongTin>
+  <TenCongTy>Cong Ty A</TenCongTy>
+  <SoDienThoai>0912999444</SoDienThoai>
+  <DiaChi>141 Phan Tay Ho, P.2, Quan Phu Nhuan</DiaChi>
+  <DS>
+    <HoaDon Loai="1">
+      <Ma>KH001</Ma>
+      <Ten>Nguyen Thi Hong</Ten>
+      <SoLuong>2</SoLuong>
+      <DonGia>2000000</DonGia>
+      <KhoangCach>10</KhoangCach>
+    </HoaDon>
+    <HoaDon Loai="2">
+      <Ma>KH005</Ma>
+      <Ten>Nguyen Thi Xinh</Ten>
+      <SoLuong>100</SoLuong>
+      <DonGia>1900000</DonGia>
+      <ThoiGian>4</ThoiGian>
+    </HoaDon>
+    <HoaDon Loai="3">
+      <Ma>KH202</Ma>
+      <Ten>Ten cong ty ABC</Ten>
+      <SoLuong>2500</SoLuong>
+      <DonGia>1500000</DonGia>
+      <SoNV>120</SoNV>
+    </HoaDon>
+    <HoaDon Loai="1">
+      <Ma>KH002</Ma>
+      <Ten>Nguyen Quan Vinh</Ten>
+      <SoLuong>3</SoLuong>
+      <DonGia>2000000</DonGia>
+      <KhoangCach>5</KhoangCach>
+    </HoaDon>
+    <HoaDon Loai="2">
+      <Ma>KH006</Ma>
+      <Ten>Nguyen Nhut Tan</Ten>
+      <SoLuong>150</SoLuong>
+      <DonGia>1500000</DonGia>
+      <ThoiGian>5</ThoiGian>
+    </HoaDon>
+  </DS>
+</ThongTin>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dsDiem>
+	<diem>
+		<x>8</x>
+		<y>9</y>
+	</diem>
+	<diem>
+		<x>6</x>
+		<y>1</y>
+	</diem>
+	<diem>
+		<x>9</x>
+		<y>-5</y>
+	</diem>
+	<diem>
+		<x>7</x>
+		<y>12</y>
+	</diem>
+	<diem>
+		<x>-7</x>
+		<y>15</y>
+	</diem>
+</dsDiem>

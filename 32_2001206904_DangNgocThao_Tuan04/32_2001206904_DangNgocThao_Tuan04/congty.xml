@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty>
+	<nhanvien>
+		<ma>NV003</ma>
+		<ten>LeNam</ten>
+		<phongban>CNTT</phongban>
+		<chucvu>NhanVien</chucvu>
+		<hesoluong>2,5</hesoluong>
+		<thamnien>5</thamnien>
+		<songaylam>20</songaylam>
+	</nhanvien>
+	<nhanvien>
+		<ma>LD000</ma>
+		<ten>TranMinh</ten>
+		<phongban>CNTP</phongban>
+		<chucvu>LanhDao</chucvu>
+		<hesoluong>3,2</hesoluong>
+		<thamnien>10</thamnien>
+		<songaylam>25</songaylam>
+	</nhanvien>
+	<nhanvien>
+		<ma>NV005</ma>
+		<ten>LeBao</ten>
+		<phongban>KD</phongban>
+		<chucvu>NhanVien</chucvu>
+		<hesoluong>2,1</hesoluong>
+		<thamnien>3</thamnien>
+		<songaylam>23</songaylam>
+	</nhanvien>
+</congty>

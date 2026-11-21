@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Monhocs>
+	<MH>
+		<Loai>LT</Loai>
+		<Ma>TRR</Ma>
+		<Ten>Toan Roi Rac</Ten>
+		<SoTc>3</SoTc>
+	</MH>
+	<MH>
+		<Loai>TH</Loai>
+		<Ma>TKW</Ma>
+		<Ten>Thiet ke web</Ten>
+		<SoTc>5</SoTc>
+	</MH>
+	<MH>
+		<Loai>DA</Loai>
+		<Ma>DHT</Ma>
+		<Ten>Huong Doi Tuong</Ten>
+		<SoTc>8</SoTc>
+	</MH>
+	<MH>
+		<Loai>TH</Loai>
+		<Ma>CSDL</Ma>
+		<Ten>Co so du lieu</Ten>
+		<SoTc>3</SoTc>
+	</MH>
+	<MH>
+		<Loai>LT</Loai>
+		<Ma>AV3</Ma>
+		<Ten>Anh Van 3</Ten>
+		<SoTc>3</SoTc>
+	</MH>
+</Monhocs>

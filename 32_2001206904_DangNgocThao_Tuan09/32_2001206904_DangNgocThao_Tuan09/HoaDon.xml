@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSachHoaDon>
+  <HoaDon>
+    <!--Hoa don khach vip-->
+    <Loai>1</Loai>
+    <MaHD>HD0001</MaHD>
+    <TenKH>Nguyen Van A</TenKH>
+    <NgayLap>23/05/2016</NgayLap>
+    <HangHoa>
+      <MaHH>A95</MaHH>
+      <TenHH>Xang A95</TenHH>
+      <DonGia>29900</DonGia>
+    </HangHoa>
+    <SoLuong>20</SoLuong>
+  </HoaDon>
+  <HoaDon>
+    <!--Hoa don khach than thiet-->
+    <Loai>2</Loai>
+    <MaHD>HD0002</MaHD>
+    <TenKH>Nguyen Long</TenKH>
+    <NgayLap>24/12/2018</NgayLap>
+    <HangHoa>
+      <MaHH>A92</MaHH>
+      <TenHH>Xang A92</TenHH>
+      <DonGia>28900</DonGia>
+    </HangHoa>
+    <SoLuong>15</SoLuong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>3</Loai>
+    <!--Hoa don khach vang lai (khong luu ten KH)-->
+    <MaHD>HD0003</MaHD>
+    <TenKH>Nguyen Van C</TenKH>
+    <NgayLap>15/09/2018</NgayLap>
+    <HangHoa>
+      <MaHH>A95</MaHH>
+      <TenHH>Xang A95</TenHH>
+      <DonGia>29900</DonGia>
+    </HangHoa>
+    <SoLuong>10</SoLuong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>1</Loai>
+    <!--Hoa don khach vip-->
+    <MaHD>HD0004</MaHD>
+    <TenKH>Nguyen Van D</TenKH>
+    <NgayLap>20/10/2018</NgayLap>
+    <HangHoa>
+      <MaHH>E5</MaHH>
+      <TenHH>Xang E5</TenHH>
+      <DonGia>27900</DonGia>
+    </HangHoa>
+    <SoLuong>15</SoLuong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>2</Loai>
+    <!--Hoa don khach than thiet-->
+    <MaHD>HD0005</MaHD>
+    <TenKH>Nguyen Long</TenKH>
+    <NgayLap>24/11/2018</NgayLap>
+    <HangHoa>
+      <MaHH>A95</MaHH>
+      <TenHH>Xang A95</TenHH>
+      <DonGia>29900</DonGia>
+    </HangHoa>
+    <SoLuong>30</SoLuong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>3</Loai>
+    <!--Hoa don khach vang lai (khong luu ten KH)-->
+    <MaHD>HD0006</MaHD>
+    <TenKH>Nguyen Van E</TenKH>
+    <NgayLap>15/09/2019</NgayLap>
+    <HangHoa>
+      <MaHH>A95</MaHH>
+      <TenHH>Xang A92</TenHH>
+      <DonGia>28800</DonGia>
+    </HangHoa>
+    <SoLuong>12</SoLuong>
+  </HoaDon>
+</DanhSachHoaDon>

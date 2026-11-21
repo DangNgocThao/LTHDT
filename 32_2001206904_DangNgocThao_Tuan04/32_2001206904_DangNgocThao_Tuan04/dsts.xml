@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSSV>
+	<ThiSinh>
+		<SBD>101</SBD>
+		<HT>Le Thanh Nam</HT>
+		<NamSinh>2003</NamSinh>
+		<Toan>9,5</Toan>
+		<Van>7,6</Van>
+		<NN>8</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>123</SBD>
+		<HT>Nguyen Quan Vinh</HT>
+		<NamSinh>2002</NamSinh>
+		<Toan>7,6</Toan>
+		<Van>6,5</Van>
+		<NN>8,9</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>456</SBD>
+		<HT>Dang Ngoc Thao</HT>
+		<NamSinh>2004</NamSinh>
+		<Toan>9,1</Toan>
+		<Van>6,3</Van>
+		<NN>7,8</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>789</SBD>
+		<HT>Nguyen Nhut Tan</HT>
+		<NamSinh>2003</NamSinh>
+		<Toan>7</Toan>
+		<Van>8,0</Van>
+		<NN>6,8</NN>
+	</ThiSinh>
+</DSSV>

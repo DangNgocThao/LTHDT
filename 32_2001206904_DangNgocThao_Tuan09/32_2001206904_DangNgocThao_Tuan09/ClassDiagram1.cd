@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Buoi09_THOOP_Tuan10.HoaDonVIP">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>HoaDonVIP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Buoi09_THOOP_Tuan10.HoaDonThanThiet">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>HoaDonThanThiet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Buoi09_THOOP_Tuan10.HoaDonVangLai">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>HoaDonVangLai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi09_THOOP_Tuan10.HoaDon">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAgAAAAQIAAABAAAAAAAAAEAAAAAAAAAAAIEAAAA=</HashCode>
+      <FileName>HoaDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi09_THOOP_Tuan10.HangHoa">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAIAACAAAAAAQAIAAEIA=</HashCode>
+      <FileName>HangHoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Buoi09_THOOP_Tuan10.IHoTro">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHoTro.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
